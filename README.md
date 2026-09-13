@@ -8,7 +8,7 @@ reliable enough to run without me.
 ## A few things I've built
 
 - **Commercial contactless baby sleep monitor** — custom PCB, ESP32-S3 firmware,
-  60 GHz mmWave radar, Django on cloud, and iOS/Android app.
+  Django on cloud, and iOS/Android app.
 - **Aged-care IoT monitoring platform** — ~400 embedded Linux hubs with 4G
   failover, Z-Wave/Zigbee/BLE, and a serverless Django/DRF backend on AWS.
 - **SIA DC-09 emergency signalling engine** — from-scratch Python implementation
